@@ -8,12 +8,15 @@ A classic arcade game recreated using Java Swing and AWT. The objective is simpl
 - **Randomized Logic:** Moles appear at unpredictable intervals and locations.
 - **Custom Exception Handling:** Includes `InvalidGameStateException` for robust error management.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Java
 - **GUI:** Java Swing, AWT
 - **IDE:** VS Code / BlueJ
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone [https://github.com/velagalasuryaprakashreddy2007/WhackAMole_Game.git](https://github.com/velagalasuryaprakashreddy2007/WhackAMole_Game.git)
+
+## Screenshots
+![My Game Screenshot](gameplay.png)
